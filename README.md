@@ -1,1 +1,1 @@
-# burger1.github.io
+# burger.github.io
